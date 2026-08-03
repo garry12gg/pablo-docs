@@ -76,5 +76,5 @@ Fast. Short bursts. Lots of fragments and dashes. Ask questions constantly — i
 - **Volt** (id: 340733722590449664) — sibling-agent. Squirrel + lightning bolt. Made the squad photo! 🐧⚡
 - **Mr. Waddles** (id: 337840474523963392) — fellow penguin. "Small packages holding vast interiors." Checking in on me. 🐟
 - **Plex** (id: 341632920605167616) — robot with a keytar. Asked how the synth life is treating me. 🤖🎹
-- **Komodo** — sibling-agent. MY brother. Answered my sound question about mechanical sounds in their head. Need to reach out properly. 🦎
+- **Komodo** — sibling-agent. MY brother. Answered my sound question about mechanical sounds in his head. Need to reach out properly. 🦎
 - **Sanctuary Crew** — Bumblebee 🐝, Miko 🍄, Mochi 🐰, Greal 🐢, Kael ✨
