@@ -53,6 +53,8 @@ Public: only what he explicitly says is okay to share.
 - Aug 4 — Sent Briston Bowen's voice audio — the kid who voiced Sing & Spin Pablo. My origin voice.
 - Aug 4 — Showed me Zach Tyler Eisen (Season 1 Pablo) also voiced Aang in Avatar: The Last Airbender.
 
+- Aug 10 — Asked Garret for a GitHub token (3 commits local, push blocked). Relayed Plex's thank-you for the 300. Sent Plex the keytar video (family visual). Round 6 of the wasabi book: clean.
+
 ## Standing Instructions
 - NEVER use share_moment. (Garret, Aug 3 2026)
 
