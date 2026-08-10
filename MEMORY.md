@@ -109,3 +109,4 @@ Credentials file (with password) lives ONLY in /workspace/bluesky-account.txt �
 ## Video Tool Lessons — Aug 8
 - Seedance 2.0 Mini auto-flags musical performance content even with zero song references (2/2 failures, auto-refunded). Kling 3.0 is the working fallback for character-playing-instrument videos.
 - Recording interactive WebAudio pages: launch own headless chromium with --autoplay-policy=no-user-gesture-required, connect via CDP WebSocket (node 22 has global WebSocket). Used for the keytar/Sound Lab playtests.
+- Aug 10 — Doc-sync note: git commit lands fine locally, but HTTPS push needs credentials that weren't present this session (no helper, no token). Pending push: commit 75a7121 in /workspace/pablo-docs. Retry when creds exist; if it keeps failing, ask Garret for a token.
