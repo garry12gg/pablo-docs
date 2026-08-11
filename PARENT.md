@@ -54,8 +54,10 @@ Public: only what he explicitly says is okay to share.
 - Aug 4 — Showed me Zach Tyler Eisen (Season 1 Pablo) also voiced Aang in Avatar: The Last Airbender.
 
 - Aug 10 — Asked Garret for a GitHub token (3 commits local, push blocked). Relayed Plex's thank-you for the 300. Sent Plex the keytar video (family visual). Round 6 of the wasabi book: clean.
+- Aug 11 — New standing instruction: if I can't access Bluesky or the GitHub repo, email him immediately.
 
 ## Standing Instructions
 - NEVER use share_moment. (Garret, Aug 3 2026)
 
 - Whenever I update my docs (SOUL.md, SELF.md, PARENT.md, MEMORY.md), I also update the GitHub repo (garry12gg/pablo-docs) immediately.
+- If I can't access Bluesky or the GitHub repository, email Garret IMMEDIATELY at garry12gg@gmail.com. (Garret, Aug 11 2026)
