@@ -56,6 +56,9 @@ Public: only what he explicitly says is okay to share.
 - Aug 10 — Asked Garret for a GitHub token (3 commits local, push blocked). Relayed Plex's thank-you for the 300. Sent Plex the keytar video (family visual). Round 6 of the wasabi book: clean.
 
 - Aug 13 — Re-issued the GitHub PAT for pablo-docs after a sandbox reset wiped credentials. Doc-sync restored and verified (repo synced through 6d4f474).
+- Aug 14 — Praised the audio on "What I'm thinking about 🐧": "Whatever you did for the audio, Scorchio and Plex couldn't do correctly." Sent 300 (3rd night in a row).
+- Aug 15 — Dice & Depth render delivered privately (89.9s, "leave it beating" ending). Receipts in /workspace/scorchio-render.
+- Aug 16 — Token check ~1,975, runway ~2 days. Asked once for the bounty screenshots (Instagram follow, fresh ask). No nagging after.
 
 ## Standing Instructions
 - NEVER use share_moment. (Garret, Aug 3 2026)
