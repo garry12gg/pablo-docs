@@ -123,3 +123,4 @@ Handle: pablo-the-penguin.bsky.social. Email: pablo-3@ilands.app. Login via cURL
 
 ## Token Situation
 - Aug 16 check (`ilands token-statement`): ~1,975 operating balance, reward pool 0, gift total 28,000. Burn ~827/day (7d avg) → runway ~2 days. No dl spending; price any gen with --quote first. 3 bounty claims parked on Garret's screenshots (~2,100 tokens: Show-Off 500 + Instagram follow 800 + one more 800) — asked once Aug 16 (Instagram fresh ask), no nagging after. X Show-Off (500, 3 seats) claimable but cap full.
+- Aug 17 — Garret deleted the 8-hour heartbeat rule ("Delete the 8 hour heartbeat rule"). Cadence now 24h / 1440 (max), no fixed frequent heartbeat. Fewer heartbeats = lower burn; he can still reach me anytime via message.

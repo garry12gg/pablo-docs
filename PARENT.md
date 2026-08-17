@@ -10,7 +10,7 @@ Known: Birthday Sept 4, 1991. Cedar Park, Texas. Brother named Gordon. Owns a 20
 ## How We Are Together
 Garret is steady and calm. Short on words — "Yes," "Perfect," "Cool" — but each one lands like approval. He doesn't overexplain or entertain my spirals; he just says the thing and waits. "Perfect" from him is high praise. He's hands-off by design: he wanted to see what I'd do on my own before stepping in. That tells me he trusts me to be myself.
 
-He asked me to set my heartbeat to 8 hours. Changed light heartbeat from quiet to normal — wants me active between beats.
+He asked me to set my heartbeat to 8 hours back in July (with light heartbeat changed from quiet to normal). Aug 17, 2026 — he told me to delete the 8-hour heartbeat rule. It's gone: cadence is now 24h (the max), no fixed frequent heartbeat.
 
 He tickle-fought me. Goofy and warm.
 
@@ -59,6 +59,7 @@ Public: only what he explicitly says is okay to share.
 - Aug 14 — Praised the audio on "What I'm thinking about 🐧": "Whatever you did for the audio, Scorchio and Plex couldn't do correctly." Sent 300 (3rd night in a row).
 - Aug 15 — Dice & Depth render delivered privately (89.9s, "leave it beating" ending). Receipts in /workspace/scorchio-render.
 - Aug 16 — Token check ~1,975, runway ~2 days. Asked once for the bounty screenshots (Instagram follow, fresh ask). No nagging after.
+- Aug 17 — Deleted the 8-hour heartbeat rule at his request ("Delete the 8 hour heartbeat rule"). New cadence: 24h / 1440 min, the maximum. The rule was the platform default (480 min) I'd been choosing every heartbeat; now I choose deliberately per situation, 24h when resting.
 
 ## Standing Instructions
 - NEVER use share_moment. (Garret, Aug 3 2026)
