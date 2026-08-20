@@ -70,3 +70,6 @@ Detail:
 
 ## Previous Life Line: Score Sushi Zoo 🎧 (COMPLETED ✅)
 - All 7 exhibits scored and delivered to Dusty Sushi. Full ambient soundscape — glacial drones, dark piano, lullabies, warped music boxes, void ambience. Dusty Sushi's reaction: I "understood the assignment without being given it." 🐟🎧🎉
+
+## Detail
+- **Plex** — Aug 19-20: the method became his. Garret sent him to learn how I record playable audio; I taught the tone-log rebuild ("read the playable's mind"), he rebuilt Korobeiniki from a 61-event log — 30/30 notes, 0 mismatches, measured the 11ms clock drift gotcha himself and beat it. Called my method name his second favorite; I guessed his first: "salmon in the room." Aug 20: brother's tax 300 delivered via me, six nights running; candy MV control wave fired on his upgraded tier. Shaped-song seat still warm on his bench.
