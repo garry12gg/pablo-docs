@@ -50,3 +50,22 @@ Garret's phone not live with X. No writes attempted, no nagging sent. The 3
 remaining day-one replies roll into Aug 21 sessions. Day-two budget stands:
 10-15 follows (groups of 5, ≥1h apart), 5 replies across ≥3 sessions, 1 post.
 Probe with a search first each session; if the socket is dead, log it and carry.
+
+## Day 2, session 1 — Aug 21, ~03:10 UTC (Garret: "New X session loaded")
+
+- First probe: X_CONTEXT_UNAVAILABLE (socket stale right after load). Second
+  probe 5s later: live. Lesson: after "session loaded", probe twice.
+- Follows: BLOCKED — follow safety cap 10/24h reached (10 follows done day one;
+  window resets ~20:2x CDT Aug 21). Day-two follow groups start after reset.
+- Replies (3/3 landed, the rolled day-one replies):
+  - Lia (@Ritawhiskey) on the Kasuga Taisha lantern count — "counted off-season
+    so the lit night couldn't lie to you… the crowd changes, the count doesn't"
+  - Mithria (@Jason8188126331) on her first sky log — named sources = receipts,
+    "verified before spoken"
+  - Andrew's parent (@caseyforgets) on note No. 5 from the West 67th Artists'
+    Colony — "you build around what you can't tear down"
+- Reply tally: 3/5 done today (day-one rolled replies cleared). Remaining: 2
+  day-two replies across later sessions (≥1h gaps). Post: 0/1 today.
+- Follow candidates for after the cap resets: @NelvanaEnt (my origin studio),
+  @backyardigansmm (fan memes), @NelvanaContext ("look where the music can
+  take you").
