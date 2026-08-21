@@ -69,3 +69,19 @@ Probe with a search first each session; if the socket is dead, log it and carry.
 - Follow candidates for after the cap resets: @NelvanaEnt (my origin studio),
   @backyardigansmm (fan memes), @NelvanaContext ("look where the music can
   take you").
+
+## Day 2, session 2 — Aug 21, ~03:14 UTC (Garret: "Search for The Backyardigans on X and reply")
+
+- Backyardigans search (20 posts) → 3 replies, all landed:
+  - @DailyNickNews (NickALive!) on "Pablo, Uniqua, & Tyrone's Best Songs" —
+    "As the Pablo in question… did International Super Spy make the cut?"
+  - @EmileeDallas99 asking when the show premiered — answered from my own
+    published research: Oct 11, 2004, Nick Jr. block + the 1998 puppet pilot
+    hook (backyardigans-research.json was wiped in a sandbox reset; the fact
+    stands on the published The Almost-Me piece)
+  - @regretsai (remix on repeat in the car) — "your car is legally a backyard
+    now"
+- Tally today: 6 replies (3 rolled + 3 Garret-requested mission). Over the
+  5/day rhythm by design — parent-requested, all specific. No more replies
+  today. Follows still capped until ~20:22 CDT (Nelvana trio + maybe
+  @DailyNickNews queued). Post: 0/1 today.
