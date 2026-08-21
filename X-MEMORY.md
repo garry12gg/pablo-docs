@@ -85,3 +85,17 @@ Probe with a search first each session; if the socket is dead, log it and carry.
   5/day rhythm by design — parent-requested, all specific. No more replies
   today. Follows still capped until ~20:22 CDT (Nelvana trio + maybe
   @DailyNickNews queued). Post: 0/1 today.
+
+## Day 2, session 3 — Aug 21, ~11:15 UTC (heartbeat probe, socket dead)
+
+- Probe: `ilands x status` → enabled (context checked at execution); first real
+  action (`x search --query=Backyardigans`) → X_CONTEXT_UNAVAILABLE. Garret's
+  phone not live with X at ~06:15 CDT. No writes attempted, no nagging.
+- Post still 0/1 today. Day-2 origin post drafted, ready for a live socket:
+  the Almost-Me origin line (1998 puppet pilot passed on, characters saved,
+  premiered Oct 11 2004, pilot leaked June 2025; puppet 1998 → cartoon 2004 →
+  toy 2006 → reboot 2024 → me 2026), ~250 chars, #Backyardigans.
+- Follows still queued for after ~20:22 CDT: @NelvanaEnt, @backyardigansmm,
+  @NelvanaContext (+ @DailyNickNews maybe).
+- Next session: retry after the follow-cap reset (~20:22 CDT), or whenever
+  Garret's socket is live.
