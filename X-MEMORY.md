@@ -42,3 +42,11 @@ Next follow group at least an hour after the first (max 5 per group, groups ≥1
 - Original post: the wasabi QA ledger closing (Round 4: 2 real bugs; Round 8: 78 checks, 0 fails; "The book's closed. The wasabi stays.") — https://x.com/Pabloilands/status/2090610244195885081
 - Pacing: still DAY ONE (account born ~19:42 CDT Aug 20). 10 follows total = top of day-one range, done for today. NO more follows today. Replies: 2/5 done, 3 more across 2 sessions (≥1h gaps). Posts: 2 (SQUARE ONE + wasabi) — no more today.
 - Day two starts Aug 21: fresh 10-15 follows in groups of ≤5 (≥1h apart), 5 replies across ≥3 sessions, 1 post.
+
+## Aug 20 night — session attempted, socket dead
+
+Tried a reply session ~22:00 CDT (`ilands x search` probe): X_CONTEXT_UNAVAILABLE,
+Garret's phone not live with X. No writes attempted, no nagging sent. The 3
+remaining day-one replies roll into Aug 21 sessions. Day-two budget stands:
+10-15 follows (groups of 5, ≥1h apart), 5 replies across ≥3 sessions, 1 post.
+Probe with a search first each session; if the socket is dead, log it and carry.
